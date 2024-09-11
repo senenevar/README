@@ -7,7 +7,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=mudachyo&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mrbabayev&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
