@@ -9,9 +9,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=mrbabayev&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mrbabayev&label=Profile%20Views&color=11&icon=5&pretty=false" />
-</a>
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/mudachyo/mudachyo/output/github-contribution-grid-snake.svg"></p>
